@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="92eee6be6de0b11c924e3ab27db30257159c0a7c" datatype="html">
+        <source>Home</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="802222cb4754d74846b18f651b1f94e21576185d" datatype="html">
+        <source>Get Started</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="fcfd4675b4c90f08d18d3abede9a9a4dff4cfdc7" datatype="html">
+        <source>Documentation</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="ec2d3a89b366d1ca80be056e9e71f0165ae75c7b" datatype="html">
+        <source>Community</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="d75bd8be19ee71d1356c6c9e76562163f781b4a3" datatype="html">
+        <source>What's New</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="5344d333f51cdaa99a23fd072d63e2ae049e2943" datatype="html">
+        <source>
+                UX guidelines, HTML/CSS framework, and Angular components
+                working together to craft exceptional experiences
+            </source>
+        <target/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
